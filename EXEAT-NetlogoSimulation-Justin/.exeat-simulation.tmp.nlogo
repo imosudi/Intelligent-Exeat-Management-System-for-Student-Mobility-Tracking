@@ -189,9 +189,9 @@ EXEAT States Over Time
 Time (ticks)
 Number of Students
 0.0
-10.0
+50.0
 0.0
-10.0
+50.0
 true
 false
 "" ""

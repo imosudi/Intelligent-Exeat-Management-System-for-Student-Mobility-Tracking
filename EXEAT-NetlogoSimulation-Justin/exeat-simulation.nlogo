@@ -136,10 +136,10 @@ ticks
 30.0
 
 BUTTON
-803
-31
-866
-64
+807
+49
+870
+82
 setup
 setup
 NIL
@@ -168,6 +168,41 @@ NIL
 NIL
 NIL
 0
+
+MONITOR
+487
+72
+573
+117
+Current Ticks
+ticks
+17
+1
+11
+
+PLOT
+448
+231
+648
+381
+EXEAT States Over Time
+Time (ticks)
+Number of Students
+0.0
+50.0
+0.0
+50.0
+true
+false
+"" ""
+PENS
+"default" 1.0 0 -16777216 true "" "plot count turtles"
+"Idle" 1.0 0 -7500403 true "" "plot count turtles with [state = \"idle\"]"
+"Requesting" 1.0 0 -1184463 true "" "plot count turtles with [state = \"requesting\"]"
+"Approved" 1.0 0 -14439633 true "" "plot count turtles with [state = \"approved\"]"
+"Exiting" 1.0 0 -2674135 true "" "plot count turtles with [state = \"exiting\"]"
+"Outside" 1.0 0 -955883 true "" "plot count turtles with [state = \"outside\"]"
+"Returned" 1.0 0 -14454117 true "" "plot count turtles with [state = \"returned\"]"
 
 @#$#@#$#@
 ## WHAT IS IT?
